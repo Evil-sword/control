@@ -1,0 +1,1 @@
+I am preparing for an interview.This is my summary of some knowledge about control
