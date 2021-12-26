@@ -1,1 +1,1 @@
-I am preparing for an interview.This is my summary of some knowledge about control
+理想汽车控制算法应聘准备
